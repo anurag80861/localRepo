@@ -1,0 +1,51 @@
+label{
+    padding-left: 5px;
+}
+
+
+.padleft{
+    /* border: 2px solid blue; */
+    margin-left: 20px;
+    position: relative;
+  
+  
+    
+}
+.ab{
+   text-align: center;
+    height: 400px;
+    margin-top: 40;
+    padding-top: 200px;
+}
+input{
+    width:250px;
+}
+.outer{
+  height:300px;
+  width: 400px;
+  border:2px solid black;
+
+  text-align: center;
+  padding-top: 100px;
+  background-color: rgb(193, 193, 193);
+  
+}
+
+legend{
+    background-color: grey;
+    /* padding:200px */ 
+    /* margin: auto; */
+}
+.yoyo{
+    margin-left: 25px;
+}
+fieldset{
+    height:420px;
+    width: 250px;
+    margin: auto;
+    padding:30px;
+    
+    
+
+}
+
